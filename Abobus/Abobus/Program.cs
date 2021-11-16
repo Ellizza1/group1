@@ -9,6 +9,7 @@ namespace Abobus
             Console.WriteLine(" не плачь(");
             Console.WriteLine("ок:C");
             Console.WriteLine("не ок ((");
+            Console.WriteLine("0к");
         }
     }
 }
