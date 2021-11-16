@@ -6,7 +6,7 @@ namespace Abobus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" белая тема!!!!");
+            Console.WriteLine(" не плачь(");
         }
     }
 }
