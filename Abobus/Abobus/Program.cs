@@ -12,6 +12,8 @@ namespace Abobus
             Console.WriteLine("0к");
             Console.WriteLine(" НЕ 0К"); 
             Console.WriteLine("пуп-пип-пап я робот");
+            Console.WriteLine("Ехала семья на шестёрке , перевернулись ,едут на девятке");
+
         }
     }
 }
