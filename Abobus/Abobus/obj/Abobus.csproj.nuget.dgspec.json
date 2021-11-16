@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kodiu\\repA\\group1\\Abobus\\Abobus\\Abobus.csproj": {}
+    "D:\\group1\\Abobus\\Abobus\\Abobus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kodiu\\repA\\group1\\Abobus\\Abobus\\Abobus.csproj": {
+    "D:\\group1\\Abobus\\Abobus\\Abobus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kodiu\\repA\\group1\\Abobus\\Abobus\\Abobus.csproj",
+        "projectUniqueName": "D:\\group1\\Abobus\\Abobus\\Abobus.csproj",
         "projectName": "Abobus",
-        "projectPath": "C:\\Users\\kodiu\\repA\\group1\\Abobus\\Abobus\\Abobus.csproj",
-        "packagesPath": "C:\\Users\\kodiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kodiu\\repA\\group1\\Abobus\\Abobus\\obj\\",
+        "projectPath": "D:\\group1\\Abobus\\Abobus\\Abobus.csproj",
+        "packagesPath": "C:\\Users\\progi\\.nuget\\packages\\",
+        "outputPath": "D:\\group1\\Abobus\\Abobus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kodiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\progi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
