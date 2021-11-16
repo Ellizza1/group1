@@ -7,6 +7,7 @@ namespace Abobus
         static void Main(string[] args)
         {
             Console.WriteLine(" не плачь(");
+            Console.WriteLine("ок:C");
         }
     }
 }
