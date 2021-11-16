@@ -6,7 +6,7 @@ namespace Abobus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("сам такой! ");
+            Console.WriteLine("сам ");
         }
     }
 }
