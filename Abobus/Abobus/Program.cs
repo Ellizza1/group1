@@ -15,6 +15,9 @@ namespace Abobus
             Console.WriteLine("Ехала семья на шестёрке , перевернулись ,едут на девятке");
             Console.WriteLine("Заходит в бар, улитка говорит");
 
+            Console.WriteLine("ЮМОРНОЙ");
+
+
 
         }
     }
